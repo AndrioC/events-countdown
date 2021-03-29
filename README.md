@@ -17,6 +17,11 @@ Hello, this project was created using React Native with Typescript and Styled Co
     <img src="src/assets/images/app_countdown_03.png">
 </h1>
 
+<h1>
+    <p>Demo</p>
+    <img src="src/assets/images/app_countdown_demo.gif">
+</h1>
+
 ## :desktop_computer: Available Scripts
 
 In the project directory, you can run:
